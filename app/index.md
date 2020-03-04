@@ -17,11 +17,9 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 ### [John Lemon](writer/john-lemon.md) | zestmaster@flavor.magazine
 
 [Homemade Sausages](recipe/jan/homemade-sausages.md)
+[Candied Carrot](recipe/feb/candied-carrot.md)
 
 ### [Madame Croque](writer/madame-croque.md) | mmecroque@flavor.magazine
 
 [Chocolate Soup](recipe/jan/chocolate-soup.md)
-
-### [John Lemon](writer/john-lemon.md) | zestmaster@flavor.magazine
-
-[Candied Carrot](recipe/feb/candied-carrot.md)
+[Roast Pork and Pickled Cucumber Sandwich](recipe/feb/roast-pork-and-pickled-cucumber-sandwich.md)
