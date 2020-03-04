@@ -5,3 +5,4 @@
 Recipe Picks:
 
 - January: [Vanilla Panna Cotta](../recipe/jan/vanilla-panna-cotta.md)
+- Febuaray: [Asapargus With Cranberries and pine nuts](../recipe/feb/Asparagus with Cranberries and Pine Nuts.md)
