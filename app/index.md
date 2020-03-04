@@ -23,3 +23,10 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 [Chocolate Soup](recipe/jan/chocolate-soup.md)
 [Roast Pork and Pickled Cucumber Sandwich](recipe/feb/roast-pork-and-pickled-cucumber-sandwich.md)
+
+
+###Last Month's Favorites
+
+[Chocolate Soup](recipe/jan/chocolate-soup.md)
+[Vanilla Panna Cotta](recipe/jan/vanilla-panna-cotta.md)
+[Grilled Peach Salad](recipe/jan/grilled-peach-salad.md)
