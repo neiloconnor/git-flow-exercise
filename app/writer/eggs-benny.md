@@ -4,4 +4,4 @@
 
 Recipe Picks:
 
-- January: [Vanilla Panna Cotta](../recipe/jan/vanilla-panna-cotta.md)
+- Feburary: [Vanilla Panna Cotta](../recipe/feb/eggsbenny.txt)
