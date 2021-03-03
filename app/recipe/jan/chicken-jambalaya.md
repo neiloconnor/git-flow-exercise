@@ -1,3 +1,15 @@
+Ingredients
+1 tbsp olive oil
+2 chicken breasts, chopped
+1 onion, diced
+1 red pepper, thinly sliced
+2 garlic cloves, crushed
+75g chorizo, sliced
+1 tbsp Cajun seasoning
+250g long grain rice
+400g can plum tomato
+350ml chicken stock
+
 Method
 STEP 1
 Heat 1 tbsp olive oil in a large frying pan with a lid and brown 2 chopped chicken breasts for 5-8 mins until golden.
